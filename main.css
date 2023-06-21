@@ -209,3 +209,7 @@ main {
 .responsibility-list_list-item {
     margin-bottom: 6px;
 }
+
+.bold {
+    font-weight: 600;
+}
